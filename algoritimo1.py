@@ -13,7 +13,7 @@ Caso não se enquadre em pelo menos uma delas, é considerado REPROVADO.
 
 '''
 
-media,aulas,faltas = input().split(" ")
+media,aulas,faltas = input().split(" Insira a média da sala, as aulas e as faltas do aluno: ")
 media = float(media)
 aulas = int(aulas)
 faltas = int(faltas)
