@@ -1,4 +1,4 @@
-''' Função que retorna a quantidade de caracteres em uma string.'''
+''' Função que retorna a quantidade de caracteres que se repetem em uma string.'''
 
 def caracteres(s,c):
     cont = 0
