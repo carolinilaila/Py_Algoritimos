@@ -1,4 +1,5 @@
-# triangulos
+''' Insira 3 valores e descubra se pode formar um triângulo. '''
+
 aresta1 = int(input('Insira o tamanho da aresta 1: '))
 aresta2 = int(input('Insira o tamanho da aresta 2: '))
 aresta3 = int(input('Insira o tamanho da aresta 3: '))
