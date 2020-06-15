@@ -1,5 +1,5 @@
 '''
- FATORIAL
+ Algorítimo que mostra o fatorial de um número maior que 0.
 
 '''
 a = int(input('Insira um número maior que zero: '))
